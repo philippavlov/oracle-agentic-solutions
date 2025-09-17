@@ -45,8 +45,6 @@ If you’re new to the Oracle stack, read the **Decision Flow** and the **Compar
 
 ## Quick Decision Flow
 
-Text-only flow for one-file portability:
-
 1. **Need a managed, enterprise agent runtime with tool use, RAG, and governance?**
 
    * Start with **OCI Generative AI Agents Platform**.
